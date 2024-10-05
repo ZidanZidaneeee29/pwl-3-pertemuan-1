@@ -1,2 +1,3 @@
-kalimat ini telah di ubah di branch lorem
+kalimat ini telah di ubah di branch main
+
 
